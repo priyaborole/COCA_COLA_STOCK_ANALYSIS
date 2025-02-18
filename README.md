@@ -16,10 +16,3 @@ The dataset contains Coca-Cola stock data with the following columns:
 - `Volume`
 - `Moving Averages`, `Daily Returns`, `Volatility`
 
----
-
-# How to Run the Project
-#Clone the Repository (If Using Git)**
-```bash
-git clone <repo-link>
-cd coca_cola_project
